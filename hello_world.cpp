@@ -2,11 +2,12 @@
 using namespace std;
 
 const bool SECOND_CHANGES = "true"; 
+const bool FIRST_REVISION = "true";
 
 int main()
 {
 	cout << "Agampaul Singh" << endl;
 	cout << "Hello world" << endl;
-
+	cout << "This is the first revision of this code" << endl;
 	return 0;
 }
